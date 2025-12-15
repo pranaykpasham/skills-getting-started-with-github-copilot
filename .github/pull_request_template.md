@@ -13,7 +13,7 @@
 - [ ] Code is modular and reusable
 - [ ] No dead code or debug logs
 
-## Correctness
+## System Correctness
 - [ ] Functionality works as intended
 - [ ] Edge cases handled
 - [ ] Tests included and passing
@@ -29,7 +29,7 @@
 - [ ] No secrets or credentials committed
 - [ ] Sensitive data handled securely
 
-## PR Hygiene
+## Common Hygiene
 - [ ] Clear PR description
 - [ ] Commits are atomic and meaningful
 - [ ] Branch name follows conventions
@@ -45,3 +45,5 @@
 ## Risks
 - Potential impact areas:
 - Rollback plan (if needed):
+
+
