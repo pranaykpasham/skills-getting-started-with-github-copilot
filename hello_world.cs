@@ -4,6 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, World! Checklist test in feature br test-template");
+        Console.WriteLine("Hello, World! Checklist test in feature br test-template-Test");
     }
 }
