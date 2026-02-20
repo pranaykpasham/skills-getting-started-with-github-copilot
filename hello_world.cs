@@ -4,6 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Hello, World! Checklist test in feature br test-template Completed and internal lead review done.");
+        Console.WriteLine("PR template review with Alinea Team Lead..");
     }
 }
